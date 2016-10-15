@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 15 00:17:42 EDT 2016
+#Sat Oct 15 01:59:13 EDT 2016
 175.set=ANDROID_RESOURCE
 122.file=C\:\\Users\\Daniel\\AndroidStudioProjects\\MyApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_alert_dialog_material.xml
 60.set=ANDROID_RESOURCE

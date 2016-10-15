@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 15 00:17:52 EDT 2016
+#Sat Oct 15 01:59:30 EDT 2016
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=C\:\\Users\\Daniel\\AndroidStudioProjects\\MyApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\com.android.support-support-core-ui-24.2.1_7266d8b6e44f823a498afda2a93068692c732852\\classes.dex
