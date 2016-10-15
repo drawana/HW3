@@ -16,5 +16,14 @@ public class Person {
 
     }
 
+    protected String createEmail()
+    {
+        String email = "";
+        email += "New request from: " + firstName + " " + lastName + "\n";
+        email += "Patient health card number: " + healthCardNo + "\n";
+        email += "Patient allergies: " + allergies + "\n";
+        email += "Patient symptoms: " + symptoms + "\n";
+        return email;
+    }
 
 }
