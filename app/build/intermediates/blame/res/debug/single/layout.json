@@ -158,5 +158,9 @@
     {
         "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\MyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\MyApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\AndroidStudioProjects\\MyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_hospital.xml",
+        "source": "C:\\Users\\Daniel\\AndroidStudioProjects\\MyApp\\app\\src\\main\\res\\layout\\activity_select_hospital.xml"
     }
 ]

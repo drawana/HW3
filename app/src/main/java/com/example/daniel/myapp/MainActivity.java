@@ -41,5 +41,8 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         textInfo = (EditText) findViewById(R.id.edit_message5);
         person.allergies = textInfo.getText().toString();
         System.out.println(person.createEmail());
+        try {
+            GMailSender sender = new GMailSender("fishingfan100@gmail.com", "smellyjohn10");
+        }
     }
 }
